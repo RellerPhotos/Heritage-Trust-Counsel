@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <title>Heritage Trust Counsel - Primary Logo</title>
+  <desc>Elegant navy and antique gold emblem of an oak tree within a classical arch, paired with the Heritage Trust Counsel wordmark.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D9BD7A"/><stop offset=".52" stop-color="#B8944D"/><stop offset="1" stop-color="#9D7839"/></linearGradient>
+  </defs>
+  <g transform="translate(38 25)">
+    <path d="M145 16 C75 16 20 72 20 145 V285 H270 V145 C270 72 215 16 145 16Z" fill="none" stroke="#10243A" stroke-width="8"/>
+    <path d="M145 38 C88 38 42 84 42 145 V263 H248 V145 C248 84 202 38 145 38Z" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
+    <path d="M145 225 C143 192 145 158 145 121 M145 167 C119 158 102 139 91 117 M145 156 C169 145 187 126 198 103" fill="none" stroke="#10243A" stroke-width="7" stroke-linecap="round"/>
+    <path d="M145 119 C118 116 100 98 102 77 C125 78 141 91 145 119Z M145 119 C148 91 165 77 188 77 C190 98 172 116 145 119Z M91 117 C69 113 58 96 62 78 C81 81 93 95 91 117Z M198 103 C198 83 212 69 232 68 C235 87 221 102 198 103Z" fill="url(#gold)"/>
+    <path d="M145 225 L145 247 M115 247 H175" fill="none" stroke="#B8944D" stroke-width="4" stroke-linecap="round"/>
+    <path d="M70 285 H220" stroke="#B8944D" stroke-width="2"/>
+  </g>
+  <g fill="#10243A">
+    <text x="350" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="67" letter-spacing="1.2">HERITAGE</text>
+    <text x="353" y="211" font-family="Georgia, 'Times New Roman', serif" font-size="39" letter-spacing="7">TRUST COUNSEL</text>
+  </g>
+  <path d="M354 238 H1010" stroke="#B8944D" stroke-width="2"/>
+  <text x="354" y="278" fill="#66717C" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="4.2">PROBATE  •  ESTATE PLANNING</text>
+</svg>
